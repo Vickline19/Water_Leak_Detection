@@ -1,8 +1,8 @@
-#Water_Leak_Detection_System
+# Water_Leak_Detection_System
 
 A system that monitors the state of leaks and alerts user through telegram notification
 
-##Features
+## Features
 
 Real time leak detection,
 
@@ -10,7 +10,7 @@ Sensor based monitoring,
 
 Alerts via buzzer and telegram notifications.
 
-##Installation
+## Installation
 
 Clone repository,
 
@@ -18,10 +18,12 @@ Upload code to your ESP8266,
 
 Connect sensors and test system.
 
-##Usage
+## Usage
 
 Run the system and monitor for alerts when leaks occur
 
-##Collaborators
+## Collaborators
 
-1.Vickline Achieng
+1. Vickline Achieng
+2. Masika - Supervisor
+
