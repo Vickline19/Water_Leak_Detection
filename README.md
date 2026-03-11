@@ -16,11 +16,17 @@ Clone repository,
 
 Upload code to your ESP8266,
 
-Connect sensors and test system.
+## How to connect componets
 
-## Usage
+Use a 5V Power supply to power the ESP
 
-Run the system and monitor for alerts when leaks occur
+Connect the anode of the red led to GPIO5 of ESP and cathode to GND
+
+Connect the anode of the green led to GPIO2 of ESP and cathode to GND
+
+Connect the positive signal of the buzzer to GPIO4 and negative side to  Ground
+
+The signal off the water sensor to ADC on the ESP, Positive connects to 5V and negative to GND
 
 ## How to receive telegram bot message
 
@@ -33,6 +39,10 @@ Also search "IDBot" follow  prompts to generate ID
 Start the telegram bot you created example in my case "LeakALertBot" in order to able to receive messages
 
 Use the token and id you created in your code as i did in order to connect the system to the bot
+
+## Usage
+
+Run the system and monitor for alerts when leaks occur
 
 ## Collaborators
 
