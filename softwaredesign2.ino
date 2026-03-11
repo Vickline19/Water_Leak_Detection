@@ -3,12 +3,12 @@
 #include <UniversalTelegramBot.h>
 
 // WiFi credentials
-const char* ssid = "Vickline";
-const char* password = "1234567890";
+const char* ssid = "*******";
+const char* password = "**********";
 
 // Telegram bot info
-#define BOTtoken "8203603958:AAF0Q1odNk5apWQ9aYbCAmofMFEgo7Ab3J8"
-#define CHAT_ID "6357020492"
+#define BOTtoken "*******:*********************************"
+#define CHAT_ID "********"
 
 // Pins
 #define WATER_SENSOR A0
